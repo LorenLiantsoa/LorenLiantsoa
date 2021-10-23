@@ -1,0 +1,49 @@
+body {
+background-image:url(fonddd.jpg);
+background-repeat:no-repeat;
+margin-left: 0px;
+margin-top: 0px;
+}
+
+
+#bandeau{
+width: 1525;
+height: 50;
+background-color:#FFFFFF;
+}
+.Menu{
+    width: 1528px;
+    height: 600px;
+    /*background-image : url(Reserver2.jpg);*/
+    background-repeat:no-repeat;
+}
+.image
+{
+    background-color: white;
+    height: 350px;
+    width: 240px;
+    border-radius: 10px;
+    position: relative;
+    margin-top: 150px;
+    margin-left:  300px;
+    box-shadow: 2px 2px 8px;
+    padding-right: 50px;  
+}
+.titre
+{
+    position: relative;
+    margin-top: 0px;
+    margin-left: 100px;
+}
+.here
+{
+    background-color: white;
+    height: 350px;
+    width: 100px;
+    border-radius: 10px;
+    position: relative;
+    margin-top: 200px;
+    margin-left:  100px;
+    box-shadow: 2px 2px 8px;
+    padding-right: 50px;  
+}
